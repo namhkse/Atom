@@ -1,0 +1,6 @@
+[submodule "DbConnector"]
+	path = DbConnector
+	url = git@github.com:namhkse/DbConnector.git
+[submodule "modules/ansible"]
+	path = modules/ansible
+	url = git@github.com:namhkse/ansible.git
